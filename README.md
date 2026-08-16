@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/PareshSonagara/LeetCode-Solution/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0035-search-insert-position](https://github.com/PareshSonagara/LeetCode-Solution/tree/master/0035-search-insert-position) |
 | [0877-stone-game](https://github.com/PareshSonagara/LeetCode-Solution/tree/master/0877-stone-game) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/PareshSonagara/LeetCode-Solution/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/PareshSonagara/LeetCode-Solution/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -114,4 +115,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/PareshSonagara/LeetCode-Solution/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
+## Binary Search
+|  |
+| ------- |
+| [0035-search-insert-position](https://github.com/PareshSonagara/LeetCode-Solution/tree/master/0035-search-insert-position) |
 <!---LeetCode Topics End-->
