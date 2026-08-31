@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/PareshSonagara/LeetCode-Solution/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0033-search-in-rotated-sorted-array](https://github.com/PareshSonagara/LeetCode-Solution/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/PareshSonagara/LeetCode-Solution/tree/master/0035-search-insert-position) |
+| [0066-plus-one](https://github.com/PareshSonagara/LeetCode-Solution/tree/master/0066-plus-one) |
 | [0877-stone-game](https://github.com/PareshSonagara/LeetCode-Solution/tree/master/0877-stone-game) |
 | [1386-cinema-seat-allocation](https://github.com/PareshSonagara/LeetCode-Solution/tree/master/1386-cinema-seat-allocation) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/PareshSonagara/LeetCode-Solution/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0066-plus-one](https://github.com/PareshSonagara/LeetCode-Solution/tree/master/0066-plus-one) |
 | [0877-stone-game](https://github.com/PareshSonagara/LeetCode-Solution/tree/master/0877-stone-game) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/PareshSonagara/LeetCode-Solution/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/PareshSonagara/LeetCode-Solution/tree/master/3345-smallest-divisible-digit-product-i) |
