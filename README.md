@@ -163,12 +163,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/PareshSonagara/LeetCode-Solution/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
+| [3997-count-dominant-nodes-in-a-binary-tree](https://github.com/PareshSonagara/LeetCode-Solution/tree/master/3997-count-dominant-nodes-in-a-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/PareshSonagara/LeetCode-Solution/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
+| [3997-count-dominant-nodes-in-a-binary-tree](https://github.com/PareshSonagara/LeetCode-Solution/tree/master/3997-count-dominant-nodes-in-a-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/PareshSonagara/LeetCode-Solution/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
+| [3997-count-dominant-nodes-in-a-binary-tree](https://github.com/PareshSonagara/LeetCode-Solution/tree/master/3997-count-dominant-nodes-in-a-binary-tree) |
 <!---LeetCode Topics End-->
