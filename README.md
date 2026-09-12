@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/PareshSonagara/LeetCode-Solution/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0033-search-in-rotated-sorted-array](https://github.com/PareshSonagara/LeetCode-Solution/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/PareshSonagara/LeetCode-Solution/tree/master/0035-search-insert-position) |
+| [0064-minimum-path-sum](https://github.com/PareshSonagara/LeetCode-Solution/tree/master/0064-minimum-path-sum) |
 | [0066-plus-one](https://github.com/PareshSonagara/LeetCode-Solution/tree/master/0066-plus-one) |
 | [0877-stone-game](https://github.com/PareshSonagara/LeetCode-Solution/tree/master/0877-stone-game) |
 | [1386-cinema-seat-allocation](https://github.com/PareshSonagara/LeetCode-Solution/tree/master/1386-cinema-seat-allocation) |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0064-minimum-path-sum](https://github.com/PareshSonagara/LeetCode-Solution/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/PareshSonagara/LeetCode-Solution/tree/master/0070-climbing-stairs) |
 | [0877-stone-game](https://github.com/PareshSonagara/LeetCode-Solution/tree/master/0877-stone-game) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/PareshSonagara/LeetCode-Solution/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
@@ -174,4 +176,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/PareshSonagara/LeetCode-Solution/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [3997-count-dominant-nodes-in-a-binary-tree](https://github.com/PareshSonagara/LeetCode-Solution/tree/master/3997-count-dominant-nodes-in-a-binary-tree) |
+## Matrix
+|  |
+| ------- |
+| [0064-minimum-path-sum](https://github.com/PareshSonagara/LeetCode-Solution/tree/master/0064-minimum-path-sum) |
 <!---LeetCode Topics End-->
