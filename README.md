@@ -189,4 +189,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/PareshSonagara/LeetCode-Solution/tree/master/0062-unique-paths) |
+## Linked List
+|  |
+| ------- |
+| [0083-remove-duplicates-from-sorted-list](https://github.com/PareshSonagara/LeetCode-Solution/tree/master/0083-remove-duplicates-from-sorted-list) |
 <!---LeetCode Topics End-->
