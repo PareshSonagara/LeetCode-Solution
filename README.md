@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/PareshSonagara/LeetCode-Solution/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/PareshSonagara/LeetCode-Solution/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/PareshSonagara/LeetCode-Solution/tree/master/0070-climbing-stairs) |
+| [0836-rectangle-overlap](https://github.com/PareshSonagara/LeetCode-Solution/tree/master/0836-rectangle-overlap) |
 | [0877-stone-game](https://github.com/PareshSonagara/LeetCode-Solution/tree/master/0877-stone-game) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/PareshSonagara/LeetCode-Solution/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/PareshSonagara/LeetCode-Solution/tree/master/3345-smallest-divisible-digit-product-i) |
@@ -193,4 +194,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/PareshSonagara/LeetCode-Solution/tree/master/0083-remove-duplicates-from-sorted-list) |
+## Geometry
+|  |
+| ------- |
+| [0836-rectangle-overlap](https://github.com/PareshSonagara/LeetCode-Solution/tree/master/0836-rectangle-overlap) |
 <!---LeetCode Topics End-->
