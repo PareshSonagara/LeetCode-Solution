@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0063-unique-paths-ii](https://github.com/PareshSonagara/LeetCode-Solution/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/PareshSonagara/LeetCode-Solution/tree/master/0064-minimum-path-sum) |
 | [0066-plus-one](https://github.com/PareshSonagara/LeetCode-Solution/tree/master/0066-plus-one) |
+| [0088-merge-sorted-array](https://github.com/PareshSonagara/LeetCode-Solution/tree/master/0088-merge-sorted-array) |
 | [0877-stone-game](https://github.com/PareshSonagara/LeetCode-Solution/tree/master/0877-stone-game) |
 | [1386-cinema-seat-allocation](https://github.com/PareshSonagara/LeetCode-Solution/tree/master/1386-cinema-seat-allocation) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/PareshSonagara/LeetCode-Solution/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/PareshSonagara/LeetCode-Solution/tree/master/0088-merge-sorted-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/PareshSonagara/LeetCode-Solution/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/PareshSonagara/LeetCode-Solution/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/PareshSonagara/LeetCode-Solution/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -85,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/PareshSonagara/LeetCode-Solution/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/PareshSonagara/LeetCode-Solution/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0088-merge-sorted-array](https://github.com/PareshSonagara/LeetCode-Solution/tree/master/0088-merge-sorted-array) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/PareshSonagara/LeetCode-Solution/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## String
 |  |
