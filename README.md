@@ -174,16 +174,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/PareshSonagara/LeetCode-Solution/tree/master/0144-binary-tree-preorder-traversal) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/PareshSonagara/LeetCode-Solution/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [3997-count-dominant-nodes-in-a-binary-tree](https://github.com/PareshSonagara/LeetCode-Solution/tree/master/3997-count-dominant-nodes-in-a-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/PareshSonagara/LeetCode-Solution/tree/master/0144-binary-tree-preorder-traversal) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/PareshSonagara/LeetCode-Solution/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [3997-count-dominant-nodes-in-a-binary-tree](https://github.com/PareshSonagara/LeetCode-Solution/tree/master/3997-count-dominant-nodes-in-a-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/PareshSonagara/LeetCode-Solution/tree/master/0144-binary-tree-preorder-traversal) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/PareshSonagara/LeetCode-Solution/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [3997-count-dominant-nodes-in-a-binary-tree](https://github.com/PareshSonagara/LeetCode-Solution/tree/master/3997-count-dominant-nodes-in-a-binary-tree) |
 ## Matrix
@@ -207,4 +210,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/PareshSonagara/LeetCode-Solution/tree/master/0069-sqrtx) |
+## Stack
+|  |
+| ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/PareshSonagara/LeetCode-Solution/tree/master/0144-binary-tree-preorder-traversal) |
 <!---LeetCode Topics End-->
