@@ -149,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/PareshSonagara/LeetCode-Solution/tree/master/0067-add-binary) |
+| [0191-number-of-1-bits](https://github.com/PareshSonagara/LeetCode-Solution/tree/master/0191-number-of-1-bits) |
 | [1386-cinema-seat-allocation](https://github.com/PareshSonagara/LeetCode-Solution/tree/master/1386-cinema-seat-allocation) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/PareshSonagara/LeetCode-Solution/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Binary Search
@@ -214,4 +215,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0144-binary-tree-preorder-traversal](https://github.com/PareshSonagara/LeetCode-Solution/tree/master/0144-binary-tree-preorder-traversal) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0191-number-of-1-bits](https://github.com/PareshSonagara/LeetCode-Solution/tree/master/0191-number-of-1-bits) |
 <!---LeetCode Topics End-->
