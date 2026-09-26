@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/PareshSonagara/LeetCode-Solution/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0033-search-in-rotated-sorted-array](https://github.com/PareshSonagara/LeetCode-Solution/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/PareshSonagara/LeetCode-Solution/tree/master/0035-search-insert-position) |
+| [0053-maximum-subarray](https://github.com/PareshSonagara/LeetCode-Solution/tree/master/0053-maximum-subarray) |
 | [0063-unique-paths-ii](https://github.com/PareshSonagara/LeetCode-Solution/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/PareshSonagara/LeetCode-Solution/tree/master/0064-minimum-path-sum) |
 | [0066-plus-one](https://github.com/PareshSonagara/LeetCode-Solution/tree/master/0066-plus-one) |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/PareshSonagara/LeetCode-Solution/tree/master/0053-maximum-subarray) |
 | [0062-unique-paths](https://github.com/PareshSonagara/LeetCode-Solution/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/PareshSonagara/LeetCode-Solution/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/PareshSonagara/LeetCode-Solution/tree/master/0064-minimum-path-sum) |
@@ -220,5 +222,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/PareshSonagara/LeetCode-Solution/tree/master/0053-maximum-subarray) |
 | [0191-number-of-1-bits](https://github.com/PareshSonagara/LeetCode-Solution/tree/master/0191-number-of-1-bits) |
 <!---LeetCode Topics End-->
