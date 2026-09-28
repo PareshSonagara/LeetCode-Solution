@@ -99,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/PareshSonagara/LeetCode-Solution/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/PareshSonagara/LeetCode-Solution/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/PareshSonagara/LeetCode-Solution/tree/master/0067-add-binary) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/PareshSonagara/LeetCode-Solution/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/PareshSonagara/LeetCode-Solution/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/PareshSonagara/LeetCode-Solution/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/PareshSonagara/LeetCode-Solution/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -219,9 +220,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0144-binary-tree-preorder-traversal](https://github.com/PareshSonagara/LeetCode-Solution/tree/master/0144-binary-tree-preorder-traversal) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/PareshSonagara/LeetCode-Solution/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Divide and Conquer
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/PareshSonagara/LeetCode-Solution/tree/master/0053-maximum-subarray) |
 | [0191-number-of-1-bits](https://github.com/PareshSonagara/LeetCode-Solution/tree/master/0191-number-of-1-bits) |
+## Bracket Sequences
+|  |
+| ------- |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/PareshSonagara/LeetCode-Solution/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 <!---LeetCode Topics End-->
